@@ -15,6 +15,6 @@ Proyek sistem pemberi pakan ikan hias otomatis berbasis Arduino UNO yang dilengk
 ## Teknologi
   • Mikrokontroler: Arduino UNO
 
-  • Pemrograman: Arduino framework
+  • Bahasa Pemrograman: C++ (Arduino framework)
     
   
